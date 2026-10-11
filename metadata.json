@@ -1,0 +1,6 @@
+{
+  "name": "BookCraft AI - Bucherstellungs-Plattform",
+  "description": "Vollautomatische KI-Plattform zur Erstellung, Faktenprüfung, Illustrierung und Echtzeit-Exportierung von Büchern in PDF, EPUB, TXT und Kindle.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
